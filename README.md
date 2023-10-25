@@ -1,16 +1,11 @@
-# init_app_lovepeople
-
-A new Flutter project.
+# Stateless and Stateful Examples
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a example of a stateless and stateful widget, for study purposes
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://i.imgur.com/pYgW7Ir.png" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Theres one button that leads to a stateless widget via Navigator and theres one button that leads to a stateful widget.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Theres a button that goes back to the initial page with Navigator.pop();
